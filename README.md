@@ -28,7 +28,8 @@ Note：规则提取的方式会引入一些噪声，可以在此基础上做二�
 实现工具：  
 基于transformers的文本分类： https://github.com/zhanlaoban/Transformers_for_Text_Classification ，开箱即用，非常方便  
 基于BERT的古诗词预训练模型下载：https://github.com/THUNLP-AIPoet/BERT-CCPoem   
-其它相关资源 https://github.com/Morizeyao/GPT2-Chinese
+其它相关预训练资源： https://github.com/Morizeyao/GPT2-Chinese
+中国诗歌库：http://www.shigeku.com/
 
 ## 联系作者
 Mail：luoyingfengmail@163.com
