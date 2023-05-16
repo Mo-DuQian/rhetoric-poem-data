@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-05-16T05:58:52.727Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.35" etag="_k53hxrPZwLFVNMgkWCL" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-16T06:02:40.170Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.35" etag="dbHW6qchY4R9CPbiR3-j" version="21.3.2" type="github">
   <diagram name="第 1 页" id="HBdq7s2gMRr6pUkGgD1W">
-    <mxGraphModel dx="1528" dy="2140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1328" dy="2153" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="lrugsAHYkj4KjiBpkNaX-73" value="" style="rounded=1;whiteSpace=wrap;html=1;textOpacity=0;" vertex="1" parent="1">
-          <mxGeometry x="-330" y="60" width="570" height="400" as="geometry" />
+          <mxGeometry x="-340" y="48" width="570" height="400" as="geometry" />
         </mxCell>
         <mxCell id="2" value="穷且益坚" style="whiteSpace=wrap;strokeWidth=4;fontFamily=Verdana;labelBackgroundColor=default;labelBorderColor=none;fontSize=25;rounded=1;glass=0;shadow=1;fontStyle=0;horizontal=1;verticalAlign=middle;strokeColor=#f2a571;" parent="1" vertex="1">
           <mxGeometry x="-10.5" y="-10" width="139" height="50" as="geometry" />
@@ -66,6 +66,30 @@
             <mxPoint x="60" y="382" as="sourcePoint" />
             <mxPoint x="60" y="404" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="lrugsAHYkj4KjiBpkNaX-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lrugsAHYkj4KjiBpkNaX-42" target="lrugsAHYkj4KjiBpkNaX-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lrugsAHYkj4KjiBpkNaX-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="lrugsAHYkj4KjiBpkNaX-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-40" y="370" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-40" y="431" />
+              <mxPoint x="-40" y="101" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lrugsAHYkj4KjiBpkNaX-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lrugsAHYkj4KjiBpkNaX-42" target="lrugsAHYkj4KjiBpkNaX-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lrugsAHYkj4KjiBpkNaX-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lrugsAHYkj4KjiBpkNaX-42" target="lrugsAHYkj4KjiBpkNaX-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lrugsAHYkj4KjiBpkNaX-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lrugsAHYkj4KjiBpkNaX-42" target="lrugsAHYkj4KjiBpkNaX-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lrugsAHYkj4KjiBpkNaX-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lrugsAHYkj4KjiBpkNaX-42" target="lrugsAHYkj4KjiBpkNaX-65">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lrugsAHYkj4KjiBpkNaX-42" value="编码器" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontFamily=Verdana;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1" y="414" width="118" height="34" as="geometry" />
