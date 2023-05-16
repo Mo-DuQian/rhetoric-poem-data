@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-16T06:04:39.574Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.35" etag="KHo0BJ-JeBAe2CZQBeiE" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-16T06:14:10.536Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.35" etag="J5w8QTdzgW4d1W1Po0Nu" version="21.3.2" type="github">
   <diagram name="第 1 页" id="HBdq7s2gMRr6pUkGgD1W">
     <mxGraphModel dx="2458" dy="2150" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="lrugsAHYkj4KjiBpkNaX-73" value="" style="rounded=1;whiteSpace=wrap;html=1;textOpacity=0;" vertex="1" parent="1">
           <mxGeometry x="-340" y="56" width="570" height="424" as="geometry" />
         </mxCell>
-        <mxCell id="2" value="穷且益坚" style="whiteSpace=wrap;strokeWidth=4;fontFamily=Verdana;labelBackgroundColor=default;labelBorderColor=none;fontSize=25;rounded=1;glass=0;shadow=1;fontStyle=0;horizontal=1;verticalAlign=middle;strokeColor=#f2a571;" parent="1" vertex="1">
+        <mxCell id="2" value="穷且益坚" style="whiteSpace=wrap;strokeWidth=4;fontFamily=Verdana;labelBackgroundColor=default;labelBorderColor=none;fontSize=25;rounded=1;glass=0;shadow=1;fontStyle=0;horizontal=1;verticalAlign=middle;strokeColor=#e1ae33;" parent="1" vertex="1">
           <mxGeometry x="-10.5" y="-10" width="139" height="50" as="geometry" />
         </mxCell>
         <mxCell id="3" value="编码器" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontFamily=Verdana;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" parent="1" vertex="1">
@@ -147,7 +147,7 @@
         <mxCell id="lrugsAHYkj4KjiBpkNaX-68" value="解码器" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontFamily=Verdana;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-200" y="414" width="118" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="lrugsAHYkj4KjiBpkNaX-70" value="处境越穷困，意志应当越坚定" style="whiteSpace=wrap;strokeWidth=4;fontFamily=Verdana;labelBackgroundColor=default;labelBorderColor=none;fontSize=25;rounded=1;glass=0;shadow=1;fontStyle=0;horizontal=1;verticalAlign=middle;strokeColor=#f2a571;" vertex="1" parent="1">
+        <mxCell id="lrugsAHYkj4KjiBpkNaX-70" value="处境越穷困，意志应当越坚定" style="whiteSpace=wrap;strokeWidth=4;fontFamily=Verdana;labelBackgroundColor=default;labelBorderColor=none;fontSize=25;rounded=1;glass=0;shadow=1;fontStyle=0;horizontal=1;verticalAlign=middle;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-321.25" y="500" width="360.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="lrugsAHYkj4KjiBpkNaX-72" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lrugsAHYkj4KjiBpkNaX-68" target="lrugsAHYkj4KjiBpkNaX-70">
