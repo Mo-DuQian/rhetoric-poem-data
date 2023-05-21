@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-21T09:03:52.301Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.35" etag="AVeQHJYE0oRvSpPOSbCV" version="21.3.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-05-21T09:07:53.655Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.35" etag="2dOZU4pHjxIwygwu_noB" version="21.3.2" type="github" pages="5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="518" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -397,68 +397,69 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZKXNzA_54EcDOjTsB6Bw" name="第 5 页">
-    <mxGraphModel dx="432" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1233" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="nydAwja2HK5w31Ze_2Qc-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;" edge="1" parent="1" source="nydAwja2HK5w31Ze_2Qc-2" target="nydAwja2HK5w31Ze_2Qc-10">
+        <mxCell id="nydAwja2HK5w31Ze_2Qc-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;endArrow=classic;endFill=1;endSize=8;strokeWidth=1;shadow=0;" edge="1" parent="1" source="nydAwja2HK5w31Ze_2Qc-2" target="nydAwja2HK5w31Ze_2Qc-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nydAwja2HK5w31Ze_2Qc-2" value="&lt;font face=&quot;Verdana&quot;&gt;开始&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="460" y="100" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nydAwja2HK5w31Ze_2Qc-3" value="&lt;font face=&quot;Verdana&quot;&gt;结束&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="605" y="450" width="120" height="40" as="geometry" />
+          <mxGeometry x="615" y="460" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nydAwja2HK5w31Ze_2Qc-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;" edge="1" parent="1" source="nydAwja2HK5w31Ze_2Qc-5" target="nydAwja2HK5w31Ze_2Qc-6">
+        <mxCell id="nydAwja2HK5w31Ze_2Qc-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;endArrow=classic;endFill=1;endSize=8;strokeWidth=1;shadow=0;" edge="1" parent="1" source="nydAwja2HK5w31Ze_2Qc-5" target="nydAwja2HK5w31Ze_2Qc-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nydAwja2HK5w31Ze_2Qc-5" value="取N句原文与M句译文进行匹配（N，M≥1）" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="175" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="nydAwja2HK5w31Ze_2Qc-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;" edge="1" parent="1" source="nydAwja2HK5w31Ze_2Qc-6" target="nydAwja2HK5w31Ze_2Qc-15">
+        <mxCell id="nydAwja2HK5w31Ze_2Qc-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;endArrow=classic;endFill=1;endSize=8;strokeWidth=1;shadow=0;" edge="1" parent="1" source="nydAwja2HK5w31Ze_2Qc-6" target="nydAwja2HK5w31Ze_2Qc-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nydAwja2HK5w31Ze_2Qc-6" value="&lt;font face=&quot;Verdana&quot;&gt;从原文中取1到N-1句与译文中的一句计算编辑距离&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="285" y="260" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nydAwja2HK5w31Ze_2Qc-7" value="&lt;font face=&quot;Verdana&quot;&gt;原文或译文&lt;br&gt;匹配结束&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="1">
-          <mxGeometry x="615" y="350" width="100" height="80" as="geometry" />
+          <mxGeometry x="625" y="360" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="nydAwja2HK5w31Ze_2Qc-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;" edge="1" parent="1" source="nydAwja2HK5w31Ze_2Qc-10" target="nydAwja2HK5w31Ze_2Qc-5">
+        <mxCell id="nydAwja2HK5w31Ze_2Qc-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;endArrow=classic;endFill=1;endSize=8;strokeWidth=1;shadow=0;" edge="1" parent="1" source="nydAwja2HK5w31Ze_2Qc-10" target="nydAwja2HK5w31Ze_2Qc-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nydAwja2HK5w31Ze_2Qc-10" value="&lt;font face=&quot;Verdana&quot;&gt;按句子读取原文&lt;br&gt;和对应译文&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="170" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nydAwja2HK5w31Ze_2Qc-11" value="Y" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="nydAwja2HK5w31Ze_2Qc-7" target="nydAwja2HK5w31Ze_2Qc-3">
-          <mxGeometry x="-0.6923" y="-30" relative="1" as="geometry">
+        <mxCell id="nydAwja2HK5w31Ze_2Qc-11" value="Y" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=classic;endFill=1;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="nydAwja2HK5w31Ze_2Qc-7" target="nydAwja2HK5w31Ze_2Qc-3">
+          <mxGeometry x="-1" y="-25" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="510" y="310" as="sourcePoint" />
             <mxPoint x="510" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nydAwja2HK5w31Ze_2Qc-14" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="nydAwja2HK5w31Ze_2Qc-7" target="nydAwja2HK5w31Ze_2Qc-6">
-          <mxGeometry x="-0.6812" y="-10" relative="1" as="geometry">
+        <mxCell id="nydAwja2HK5w31Ze_2Qc-14" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=classic;endFill=1;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=default;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="nydAwja2HK5w31Ze_2Qc-7">
+          <mxGeometry x="-0.9213" y="-10" relative="1" as="geometry">
             <mxPoint as="offset" />
             <Array as="points">
-              <mxPoint x="350" y="390" />
+              <mxPoint x="250" y="400" />
+              <mxPoint x="250" y="240" />
             </Array>
             <mxPoint x="450" y="330" as="sourcePoint" />
-            <mxPoint x="430" y="360" as="targetPoint" />
+            <mxPoint x="350" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nydAwja2HK5w31Ze_2Qc-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;" edge="1" parent="1" source="nydAwja2HK5w31Ze_2Qc-15" target="nydAwja2HK5w31Ze_2Qc-17">
+        <mxCell id="nydAwja2HK5w31Ze_2Qc-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;endArrow=classic;endFill=1;endSize=8;strokeWidth=1;shadow=0;" edge="1" parent="1" source="nydAwja2HK5w31Ze_2Qc-15" target="nydAwja2HK5w31Ze_2Qc-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nydAwja2HK5w31Ze_2Qc-15" value="&lt;font face=&quot;Verdana&quot;&gt;根据计算后的编辑距离，结合此时原文与译文的长度比计算得分&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="455" y="250" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="nydAwja2HK5w31Ze_2Qc-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;" edge="1" parent="1" source="nydAwja2HK5w31Ze_2Qc-17" target="nydAwja2HK5w31Ze_2Qc-7">
+        <mxCell id="nydAwja2HK5w31Ze_2Qc-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;endArrow=classic;endFill=1;endSize=8;strokeWidth=1;shadow=0;" edge="1" parent="1" source="nydAwja2HK5w31Ze_2Qc-17" target="nydAwja2HK5w31Ze_2Qc-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="665" y="330" />
-              <mxPoint x="665" y="330" />
+              <mxPoint x="675" y="350" />
+              <mxPoint x="675" y="350" />
             </Array>
           </mxGeometry>
         </mxCell>
